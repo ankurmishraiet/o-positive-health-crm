@@ -1,0 +1,3 @@
+Name,Address,Phone,Email,City,State,PIN,Type,Beds,Emergency Services,Status
+Apollo Hospital,123 MG Road,9123456789,apollo@hospital.com,Mumbai,Maharashtra,400001,Multi-specialty,500,Yes,Active
+Fortis Healthcare,456 Park Street,9123456790,fortis@hospital.com,Delhi,Delhi,110001,Super Specialty,350,Yes,Active

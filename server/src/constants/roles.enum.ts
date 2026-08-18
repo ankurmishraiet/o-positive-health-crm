@@ -1,0 +1,16 @@
+export enum UserRole {
+  ADMIN = "admin",
+  BD = "bd",
+  HR = "hr",
+  DOCTOR = "doctor",
+  FINANCE = "finance",
+  PARTNER = "partner",
+  OPS = "ops",
+  DRIVER = "driver",
+  BD_MANAGER = "bd_manager",
+  SALES_MANAGER = "sales_manager",
+  ASSISTANT_MANAGER = "assistant_manager",
+  OPERATION_MANAGER = "operation_manager",
+  BD_ASSOCIATE = "bd_associate",
+  DIRECTOR = "director",
+}
